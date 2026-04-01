@@ -1,6 +1,16 @@
 # Hi, I'm Cody 👋
 
-> IT Support Technician specializing in Lenovo devices and remote support — building tools that make the job faster, smarter, and more consistent.
+> IT Support Technician with a background across Apple, Epic Games, and Lenovo — building tools that make the job faster, smarter, and more consistent.
+
+---
+
+## 💼 Experience
+
+| Company | Role |
+|---------|------|
+| 🖥 **Lenovo** | IT Support Technician — Lenovo device specialist, remote support *(current)* |
+| 🎮 **Epic Games** | Unreal Support Rep — technical support for Unreal Engine |
+| 🍎 **Apple** | Genius — hardware diagnostics, repairs, and customer technical support |
 
 ---
 
@@ -86,6 +96,8 @@ Deployed a live SOC and Honeynet in Azure using Microsoft Sentinel. Ingested log
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Lenovo](https://img.shields.io/badge/Lenovo-E2231A?style=flat-square&logo=lenovo&logoColor=white)
+![Apple](https://img.shields.io/badge/Apple-000000?style=flat-square&logo=apple&logoColor=white)
+![Epic Games](https://img.shields.io/badge/Epic_Games-313131?style=flat-square&logo=epicgames&logoColor=white)
 
 **Remote Support**
 ![AnyDesk](https://img.shields.io/badge/AnyDesk-EF443B?style=flat-square&logo=anydesk&logoColor=white)
