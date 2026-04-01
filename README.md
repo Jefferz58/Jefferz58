@@ -7,7 +7,7 @@
 ## 💼 Experience
 
 ![Lenovo](https://img.shields.io/badge/Lenovo-E2231A?style=for-the-badge&logo=lenovo&logoColor=white)  
-**IT Support Technician** — Lenovo device specialist, remote support *(current)*
+**Senior Technical Support Engineer** — Lenovo device specialist, remote support *(current)*
 
 ![Epic Games](https://img.shields.io/badge/Epic_Games-313131?style=for-the-badge&logo=epicgames&logoColor=white)  
 **Unreal Support Rep** — technical support for Unreal Engine
