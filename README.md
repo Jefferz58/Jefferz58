@@ -19,7 +19,7 @@
 
 ## 🛠 What I Build
 
-I bridge the gap between IT support work and software development. Every project I build comes directly from a real problem I've run into on the job — no demos for the sake of demos.
+I bridge the gap between IT support work and software development. Every project I build comes directly from a real problem I've run into on the job, no demos for the sake of demos.
 
 ---
 
