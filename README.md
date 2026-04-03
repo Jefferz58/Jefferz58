@@ -1,6 +1,6 @@
 # Hi, I'm Cody 👋
 
-> IT Support Technician with a background across Apple, Epic Games, and Lenovo — building tools that make the job faster, smarter, and more consistent.
+> IT Support Engineer with a background across Apple, Epic Games, and Lenovo — building tools that make the job faster, smarter, and more consistent.
 
 ---
 
